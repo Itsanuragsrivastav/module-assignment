@@ -1,0 +1,47 @@
+body{
+	
+    font-family: comic sans ms;
+    font-size: 2em;
+}
+div#box {
+	background-color: grey;
+	border: 5px solid black;
+	
+	margin: 40px;
+	position: relative;
+
+
+}
+p{
+	box-sizing: content-box;
+	border: 5px solid black;
+	margin-bottom: 20px;
+	position: relative;
+	width: 140px;
+	height: 40px;
+	align-content: right;
+
+	
+}
+#intext {
+	padding: 20px;
+}
+#p1{
+	background-color: red;
+	position: relative;
+	top: 0px;
+	
+}
+
+#p2{
+	background-color: blue;
+	position: relative;
+	
+}
+
+
+#p3{
+	background-color: maroon;
+	position: relative;
+	
+}
